@@ -1,0 +1,21 @@
+AGE_RANGE,GENDER,CHRISTIAN_DURATION,CHURCH_ATTENDANCE,PERSONAL_PRAYER,BIBLE_READING,SIN_BEHAVIOUR,SIN_TEMPTATION,SIN_ENVIRONMENT,SIN_RESISTANCE,SIN_AWARENESS
+35 - 44,1,1 - 5 years,4,5,5,3,4,4,3,4
+18 - 24,0,I was raised as a Christian,4,5,5,4,3,2,3,5
+18 - 24,1,I was raised as a Christian,4,5,3,5,5,5,2,5
+25 - 34,0,1 - 5 years,4,5,4,4,3,3,3,4
+35 - 44,1,1 - 5 years,4,4,3,5,5,5,4,4
+35 - 44,0,I was raised as a Christian,4,5,5,3,3,2,4,5
+18 - 24,1,I was raised as a Christian,4,5,5,5,5,3,4,5
+25 - 34,0,1 - 5 years,4,3,2,3,3,4,4,4
+45 - 54,0,I was raised as a Christian,4,5,5,2,2,2,4,5
+25 - 34,0,I was raised as a Christian,4,4,4,3,3,2,3,4
+35 - 44,1,I was raised as a Christian,4,5,4,3,4,3,3,4
+35 - 44,0,10+ years,4,5,4,4,3,3,3,5
+25 - 34,0,I was raised as a Christian,4,4,3,3,3,2,3,5
+18 - 24,0,1 - 5 years,4,5,5,3,5,3,4,5
+25 - 34,1,10+ years,4,4,4,5,5,4,4,4
+25 - 34,1,1 - 5 years,4,5,5,3,3,4,4,5
+35 - 44,1,I was raised as a Christian,3,4,4,3,2,2,5,5
+18 - 24,1,I was raised as a Christian,4,4,3,4,5,4,3,4
+45 - 54,0,10+ years,4,3,2,3,4,3,3,2
+18 - 24,0,< 1 year,4,2,2,4,4,3,3,4
