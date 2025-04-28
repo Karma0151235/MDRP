@@ -20,7 +20,10 @@ def plot_pie_charts(df, columns):
 
 
 demographic_cols = ['AGE_RANGE', 'GENDER', 'CHRISTIAN_DURATION']
+other_cols = ['CHURCH_ATTENDANCE', 'PERSONAL_PRAYER', 'BIBLE_READING', 'SIN_BEHAVIOUR', 'SIN_TEMPTATION', 'SIN_ENVIRONMENT',
+                                'SIN_RESISTANCE', 'SIN_AWARENESS']
 plot_pie_charts(df, demographic_cols)
+plot_pie_charts(df, other_cols)
 
 # Scores and Correlation Analysis
 # Higher Resistance to Sin implies a Lower Score for Sin
